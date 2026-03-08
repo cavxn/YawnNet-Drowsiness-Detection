@@ -12,8 +12,7 @@ yawn_dataset/
 # =========================
 # TRAINED MODELS
 # =========================
-*.h5
-*.keras
+
 *.pt
 *.pth
 *.onnx
